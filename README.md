@@ -1,2 +1,3 @@
 # ChessBot
-Chessbot for chess.com
+NNUE Not working
+Auto move not working
