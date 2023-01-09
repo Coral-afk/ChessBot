@@ -1,3 +1,4 @@
 # ChessBot
-NNUE Not working
-, Auto move not working
+NNUE, AutoMove Not working
+
+Estimated Release date : 15 January 2023
