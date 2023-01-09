@@ -1,3 +1,3 @@
 # ChessBot
 NNUE Not working
-Auto move not working
+, Auto move not working
